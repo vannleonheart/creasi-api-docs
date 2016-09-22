@@ -1,8 +1,6 @@
 ## **POST** /authentication
 
----
-
-`` User authentication ``
+> User authentication
 
 ### **REQUEST BODY**
 
