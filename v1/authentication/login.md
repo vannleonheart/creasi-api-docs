@@ -9,8 +9,8 @@
 | email    | string | string  | null    | user email address | Y        |
 | password | string | string  | null    | user password      | Y        |
 
-
 ### **RESPONSE**
+
 ``` js
 {
   "data": {
