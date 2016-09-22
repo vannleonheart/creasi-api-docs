@@ -6,8 +6,8 @@
 
 | Name     | Type   | Values  | Default | Description        | Required |
 | -------- | ------ | ------- | ------- | ------------------ | -------- |
-| email    | string | string  | null    | user email address | Y        |
-| password | string | string  | null    | user password      | Y        |
+| email    | string | string  |  null   | user email address |     Y    |
+| password | string | string  |  null   | user password      |     Y    |
 
 ### **RESPONSE**
 

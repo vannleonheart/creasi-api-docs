@@ -4,3 +4,4 @@
 + Add `get profile` endpoint to get `authenticated user` basic information
 + Add `update profile` endpoint to update `authenticated user` basic information
 + Add `update profile picture` endpoint to update `authenticated user` profile picture
++ Add `change email` endpoint to update `authenticated user` email

@@ -4,30 +4,31 @@
 
 ### **HEADERS**
 
-| Name           | Type   | Values  | Default | Description        | Required |
-| -------------- | ------ | ------- | ------- | ------------------ | -------- |
-| x-access-token | string | string  | null    | user access token  | Y        |
+| Name           | Type   | Values  | Default | Description       | Required |
+| -------------- | ------ | ------- | ------- | ----------------- | -------- |
+| x-access-token | string | string  |  null   | user access token |     Y    |
 
 ### **REQUEST BODY**
 
-| Name              | Type    | Values        | Default | Description               | Required |
-| ----------------- | ------  | ------------- | ------- | ------------------------- | -------- |
-| name              | string  | string        | null    | user full name            | Y        |
-| gender            | string  | male, female  | null    | user gender               | Y        |
-| phone             | string  | string        | null    | user phone no             | Y        |
-| province          | integer | integer       | null    | province id               | N        |
-| city              | integer | integer       | null    | city id                   | N        |
-| birth_date        | integer | 1 .. 31       | null    | user birth date           | Y        |
-| birth_month       | integer | 1 .. 12       | null    | user birth month          | Y        |
-| birth_year        | integer | integer       | null    | user birth year           | Y        |
-| cv                | file    | file          | null    | user cv file              | Y        |
-| facebookUsername  | string  | string        | null    | user facebook username    | Y        |
-| twitterScreenName | string  | string        | null    | user twitter sceen name   | Y        |
-| instagramUsername | string  | string        | null    | user instagram sceen name | Y        |
-| youtubeUsername   | string  | string        | null    | user youtube sceen name   | Y        |
-| homepage          | string  | string        | null    | user homepage url         | Y        |
+| Name              | Type    | Values       | Default | Description               | Required |
+| ----------------- | ------- | ------------ | ------- | ------------------------- | -------- |
+| name              | string  | string       |  null   | user full name            |     Y    |
+| gender            | string  | male, female |  null   | user gender               |     Y    |
+| phone             | string  | string       |  null   | user phone no             |     Y    |
+| province          | integer | integer      |  null   | province id               |     N    |
+| city              | integer | integer      |  null   | city id                   |     N    |
+| birth_date        | integer | 1 .. 31      |  null   | user birth date           |     Y    |
+| birth_month       | integer | 1 .. 12      |  null   | user birth month          |     Y    |
+| birth_year        | integer | integer      |  null   | user birth year           |     Y    |
+| cv                | file    | file         |  null   | user cv file              |     Y    |
+| facebookUsername  | string  | string       |  null   | user facebook username    |     Y    |
+| twitterScreenName | string  | string       |  null   | user twitter sceen name   |     Y    |
+| instagramUsername | string  | string       |  null   | user instagram sceen name |     Y    |
+| youtubeUsername   | string  | string       |  null   | user youtube sceen name   |     Y    |
+| homepage          | string  | string       |  null   | user homepage url         |     Y    |
 
 ### **RESPONSE**
+
 ``` js
 {
   "status": "response status",

@@ -3,9 +3,10 @@
 > Get `authenticated user` basic information
 
 ### **HEADERS**
-| Name           | Type   | Values  | Default | Description        | Required |
-| -------------- | ------ | ------- | ------- | ------------------ | -------- |
-| x-access-token | string | string  | null    | user access token  | Y        |
+
+| Name           | Type   | Values  | Default | Description       | Required |
+| -------------- | ------ | ------- | ------- | ----------------- | -------- |
+| x-access-token | string | string  |  null   | user access token |     Y    |
 
 ### **RESPONSE**
 
@@ -42,5 +43,4 @@
     "homepage": "user homepage url"
   }
 }
-
 ```
