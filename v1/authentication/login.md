@@ -15,7 +15,7 @@
 {
   "data": {
     "token": "access token",
-    "lifetime": "access lifetime in seconds",
+    "lifetime": "access lifetime in second",
     "user": {
       "id": "user id",
       "role": {
