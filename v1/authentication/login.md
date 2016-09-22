@@ -1,17 +1,17 @@
 ## **POST** /authentication
 
-> User authentication
+> Generate `access token` for user as identity for future request (request as `authenticated user`)
 
 ### **REQUEST BODY**
 
-| Name     | Type   | Values  | Default | Description        |
-| -------- | ------ | ------- | ------- | ------------------ |
-| email    | string | string  | null    | user email address |
-| password | string | string  | null    | user password      |
+| Name     | Type   | Values  | Default | Description        | Required |
+| -------- | ------ | ------- | ------- | ------------------ | -------- |
+| email    | string | string  | null    | user email address | Y        |
+| password | string | string  | null    | user password      | Y        |
 
 
 ### **RESPONSE**
-``` json
+``` js
 {
   "data": {
     "token": "access token",
