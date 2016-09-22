@@ -5,3 +5,4 @@
 + Add `update profile` endpoint to update `authenticated user` basic information
 + Add `update profile picture` endpoint to update `authenticated user` profile picture
 + Add `change email` endpoint to update `authenticated user` email
++ Add `change password` endpoint to update `authenticated user` password
