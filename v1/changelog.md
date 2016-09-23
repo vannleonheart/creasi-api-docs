@@ -23,3 +23,4 @@
 + Add `get subcategories` endpoint to get list of job `subcategory`
 + Add `get company detail` endpoint to get a `company` basic information
 + Add `get readings` endpoint to get list of `reading`
++ Add `get reading types` endpoint to get list of `reading` type
