@@ -10,3 +10,4 @@
 + Add `get notifications` endpoint to get `authenticated user` notifications
 + Add `get applications` endpoint to get `authenticated user` job applications
 + Add `get interviews` endpoint to get `authenticated user` job interviews
++ Add `deactivate account` endpoint to deactivate `authenticated user` current account
