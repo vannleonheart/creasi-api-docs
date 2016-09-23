@@ -6,3 +6,4 @@
 + Add `update profile picture` endpoint to update `authenticated user` profile picture
 + Add `change email` endpoint to update `authenticated user` email
 + Add `change password` endpoint to update `authenticated user` password
++ Add `help ticket` endpoint to create help ticket for `authenticated user`
