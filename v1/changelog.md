@@ -21,3 +21,4 @@
 + Add `get salary types` endpoint to get list of `salary` type
 + Add `get categories` endpoint to get list of job `category`
 + Add `get subcategories` endpoint to get list of job `subcategory`
++ Add `get company detail` endpoint to get a `company` basic information
