@@ -1,6 +1,6 @@
 ## **GET** /categories
 
-> Get list of `category` type
+> Get list of job `category`
 
 ### **RESPONSE**
 
