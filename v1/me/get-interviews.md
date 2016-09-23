@@ -1,6 +1,6 @@
-## **GET** /me/applications
+## **GET** /me/interviews
 
-> Get `authenticated user` job applications
+> Get `authenticated user` job interviews
 
 ### **HEADERS**
 
@@ -63,8 +63,19 @@
             "logo": "logo url",
             "homepage": "company homepage"
           },
-          "type": [ "array of job type (fulltime, parttime, freelance, internship)" ],
+          "type": [ "array of job type (fulltime, parttime, freelance, internshi)" ],
           "applicants": "number of applicants" 
+        },
+        "interview": {
+          "id": "job interview id",
+          "scheduledAt": "job interview schedule",
+          "venue": "job interview venue",
+          "contactName": "job interview contact name",
+          "contactPhone": "job interview contact phone",
+          "note": "job interview note",
+          "status": "interview status (PENDING, APPROVE, CANCEL, RESCHEDULE)",
+          "attendance": "indicate applicant attendance (Y, N)",
+          "createdAt": "job interview creation time"
         }
       },
       ...
