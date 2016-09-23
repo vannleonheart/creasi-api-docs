@@ -17,3 +17,4 @@
 + Add `add job views` endpoint to increase `job` views count
 + Add `add job shares` endpoint to increase `job` shares count
 + Add `get provinces` endpoint to get list of `provinces`
++ Add `get cities` endpoint to get list of `cities`
