@@ -8,3 +8,4 @@
 + Add `change password` endpoint to update `authenticated user` password
 + Add `help ticket` endpoint to create help ticket for `authenticated user`
 + Add `get notifications` endpoint to get `authenticated user` notifications
++ Add `get applications` endpoint to get `authenticated user` job applications

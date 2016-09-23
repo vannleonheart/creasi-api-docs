@@ -22,7 +22,7 @@
   "data": [
     {
       "id": "notification id",
-      "flag": "notification flag, 0 = new, 1 = unread, 2 = read",
+      "flag": "notification flag (0 = new, 1 = unread, 2 = read)",
       "message": {
         "id": "notification message in ID language",
         "en": "notification message in EN language"
