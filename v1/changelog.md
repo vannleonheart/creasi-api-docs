@@ -12,3 +12,4 @@
 + Add `get interviews` endpoint to get `authenticated user` job interviews
 + Add `deactivate account` endpoint to deactivate `authenticated user` current account
 + Add `jobs list` endpoint to get active `jobs` list
++ Add `job detail` endpoint to get `jobs` detail
