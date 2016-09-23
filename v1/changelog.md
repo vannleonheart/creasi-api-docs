@@ -14,3 +14,4 @@
 + Add `jobs list` endpoint to get active `jobs` list
 + Add `job detail` endpoint to get `jobs` detail
 + Add `apply job` endpoint to apply specified `job`
++ Add `add job views` endpoint to increas `job` views count
