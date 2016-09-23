@@ -19,3 +19,4 @@
 + Add `get provinces` endpoint to get list of `provinces`
 + Add `get cities` endpoint to get list of `cities`
 + Add `get salary types` endpoint to get list of `salary` type
++ Add `get categories` endpoint to get list of job `category`
