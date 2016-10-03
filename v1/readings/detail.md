@@ -25,9 +25,10 @@
     "isFeatured": "indicate wheter readings is in featured",
     "content": "reading contents",
     "source": "reading source",
-    "url": "reading reference url",
+    "source_url": "reading reference url",
     "image": "reading image path",
-    "thumbnail": "reading image thumbnail path"
+    "thumbnail": "reading image thumbnail path",
+    "url": "reading url for sharing"
   }
 }
 ```

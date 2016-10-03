@@ -65,6 +65,7 @@
             "thumbnail": "file thumbnail url, only exist for image file"
           }
         ],
+        "url": "url job for sharing",
         "applicants": "number of applicants"
       },
       ...
