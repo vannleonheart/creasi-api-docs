@@ -14,25 +14,27 @@
 {
   "status": "ok",
   "code": 200,
-  "data": [
-    {
-      "name": "DKI Jakarta"
-    },
-    {
-      "name": "Jakarta Barat"
-    },
-    {
-      "name": "Jakarta Pusat"
-    },
-    {
-      "name": "Jakarta Selatan"
-    },
-    {
-      "name": "Jakarta Timur"
-    },
-    {
-      "name": "Jakarta Utara"
-    }
-  ]
+  "data": {
+    "locations": [
+      {
+        "name": "DKI Jakarta"
+      },
+      {
+        "name": "Jakarta Barat"
+      },
+      {
+        "name": "Jakarta Pusat"
+      },
+      {
+        "name": "Jakarta Selatan"
+      },
+      {
+        "name": "Jakarta Timur"
+      },
+      {
+        "name": "Jakarta Utara"
+      }
+    ]
+  }
 }
 ```
