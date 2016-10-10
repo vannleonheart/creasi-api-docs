@@ -1,4 +1,4 @@
-## **POST** /jobs/:id/shares
+## **PUT** /jobs/:id/shares
 
 > Increase `job` shares count
 

@@ -1,4 +1,4 @@
-## **POST** /jobs/:id/views
+## **PUT** /jobs/:id/views
 
 > Increase `job` views count
 
