@@ -1,8 +1,10 @@
 #### October 15th, 2016
 + Add `order` parameter for ordering when using `get applications` & `get interviews` endpoint
 + Add `x-access-token` header when using `job detail` endpoint
++ Add `x-access-token` header when using `apply job` endpoint
 + Add `get announcements` endpoint for retrieving `authenticated user` announcements
 + Add `get locations` endpoint for retrieving locations
++ Add `register device` endpoint for registering device id on firebase
 
 #### September 22nd, 2016
 + Add `login` endpoint to generate `access token` for future request which need `authenticated user` level
