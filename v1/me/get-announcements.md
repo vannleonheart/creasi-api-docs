@@ -21,11 +21,12 @@
 {
   "data": [
     {
-      "id": "notification id",
+      "id": "announcement id",
       "flag": "notification flag (0 = new, 1 = unread, 2 = read)",
       "message": {
-        "id": "notification message in ID language",
-        "en": "notification message in EN language"
+        "subject": "message subject",
+        "image": "message image url",
+        "content": "message body"
       }
     },
     ...
