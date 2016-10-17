@@ -10,10 +10,11 @@
 
 ### **QUERY STRING PARAMETERS**
 
-| Name      | Type    | Values  | Default | Description             | Required |
-| --------- | ------- | ------- | ------- | ----------------------- | -------- |
-| page      | integer | integer |    1    | current page            |     N    |
-| page_size | integer | integer |   10    | number of rows per page |     N    |
+| Name      | Type    | Values    | Default | Description             | Required |
+| --------- | ------- | --------- | ------- | ----------------------- | -------- |
+| page      | integer | integer   |    1    | current page            |     N    |
+| page_size | integer | integer   |   10    | number of rows per page |     N    |
+| order     | string  | asc, desc |  desc   | ordering                |     N    |
 
 ### **RESPONSE**
 

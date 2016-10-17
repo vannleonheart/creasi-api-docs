@@ -2,6 +2,12 @@
 
 > Get `job` detail
 
+### **HEADERS**
+
+| Name           | Type   | Values  | Default | Description       | Required     |
+| -------------- | ------ | ------- | ------- | ----------------- | ------------ |
+| x-access-token | string | string  |  null   | user access token | if available |
+
 ### **URL PARAMETERS**
 
 | Name | Type    | Values  | Default | Description | Required |
