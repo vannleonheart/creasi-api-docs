@@ -23,6 +23,7 @@
     {
       "id": "notification id",
       "flag": "notification flag (0 = new, 1 = unread, 2 = read)",
+      "createdAt": "created timestamp",
       "message": {
         "id": "notification message in ID language",
         "en": "notification message in EN language"

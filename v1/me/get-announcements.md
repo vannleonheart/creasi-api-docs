@@ -23,6 +23,7 @@
     {
       "id": "announcement id",
       "flag": "notification flag (0 = new, 1 = unread, 2 = read)",
+      "createdAt": "created timestamp",
       "message": {
         "subject": "message subject",
         "image": "message image url",
