@@ -1,3 +1,6 @@
+#### October 22nd, 2016
++ Add `respond to interview` endpoint for accepting/rejecting interview invitation
+
 #### October 15th, 2016
 + Add `order` parameter for ordering when using `get applications` & `get interviews` endpoint
 + Add `x-access-token` header when using `job detail` endpoint
