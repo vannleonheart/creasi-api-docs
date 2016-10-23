@@ -20,6 +20,7 @@
 | birth_date        | integer | 1 .. 31      |  null   | user birth date           |     Y    |
 | birth_month       | integer | 1 .. 12      |  null   | user birth month          |     Y    |
 | birth_year        | integer | integer      |  null   | user birth year           |     Y    |
+| categories[]      | integer | integer      |  null   | category id               |     N    |
 | cv                | file    | file         |  null   | user cv file              |     Y    |
 | facebookUsername  | string  | string       |  null   | user facebook username    |     Y    |
 | twitterScreenName | string  | string       |  null   | user twitter sceen name   |     Y    |
