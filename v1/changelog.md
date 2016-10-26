@@ -1,3 +1,6 @@
+#### October 27th, 2016
++ Add `forgot password` endpoint for recovering user account
+
 #### October 22nd, 2016
 + Add `respond to interview` endpoint for accepting/rejecting interview invitation
 
